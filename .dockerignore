@@ -1,0 +1,9 @@
+# Exclude Git directory
+.git/
+
+# Exclude build artifacts
+target/
+
+# Exclude IDE files
+.idea/
+.vscode/
